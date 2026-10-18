@@ -1,0 +1,32 @@
+{
+  "cloudflare": [
+    {
+     "authentication": {
+        "api_token": "8MUyA_vwCW-bPE1OjzNyUM0Nd6w0Bz5ooa_c4wbo",
+        "api_key": {
+          "api_key": "898642d00ab27f0644dc81d589d753f3f3688",
+          "account_email": "melianiplus@gmail.com"
+        }
+      },
+      "zone_id": "a7f95d746073459749b135c23959d7ff",
+      "subdomains": [
+        {
+          "name": "@",
+          "proxied": false
+        },
+        {
+          "name": "*",
+          "proxied": false
+        },
+        {
+          "name": "gate",
+          "proxied": false
+        }
+      ]
+    }
+  ],
+  "a": true,
+  "aaaa": false,
+  "purgeUnknownRecords": false,
+  "ttl": 300
+}
